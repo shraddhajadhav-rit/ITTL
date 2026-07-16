@@ -1,12 +1,11 @@
 # ITTL
 <br>
-author - Shraddha Jadhav
+Author - Shraddha Jadhav
 <br>
-this is my repository.
+This is my repository.
 <br>
-this is a demo repo.
+This is a demo repo.
 <br>
-THE FILE CONSIST OF IT TOOLS AND TECHNOLOGY.
 <br>
 mentor - Shraddha Khapra
 
